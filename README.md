@@ -130,6 +130,6 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 📬 Contato
 
-Seu Nome - [@seuTwitter](https://twitter.com/seuTwitter) - email@example.com
+Eri França - ecfs1988@hoptmail.com
 
 Link do Projeto: [https://github.com/seu-usuario/react-ecommerce](https://github.com/seu-usuario/react-ecommerce)
